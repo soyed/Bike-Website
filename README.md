@@ -7,7 +7,7 @@ https://arctichawk1.github.io/SEG3125-LAB10/
 
 Noteable bugs in the website 
 the time selection does not work on Safari when trying to select date for appointment 
-Please kindly test on Chrome
+
 
 
 # Authors
